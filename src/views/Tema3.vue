@@ -231,7 +231,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 6
-                | Actualización constante de software y sistemas para corregir vulnerabilidades.
+                p.mb-0 Actualización constante de #[i software] y sistemas para corregir vulnerabilidades.
   
       p.mb-4(data-aos="flip-up") La seguridad de los datos también está estrechamente vinculada con el cumplimiento normativo. Legislaciones como el Reglamento General de Protección de Datos (RGPD) en Europa o la Ley de Protección de Datos Personales en Colombia exigen a las organizaciones implementar medidas técnicas y organizativas que aseguren la protección de la información.
       p.mb-4(data-aos="flip-up") Una estrategia robusta de seguridad de los datos no solo protege los activos digitales de la organización, sino que también fortalece la confianza de los usuarios, clientes y socios comerciales, lo cual es fundamental en la economía digital actual.
