@@ -60,7 +60,7 @@
                   img(src='@/assets/curso/temas/tema3/img3.png', alt='Texto que describa la imagen')
             .row(numero="B" titulo="Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD - España)")
               .col-md-12.mb-4.mb-md-0
-                p Establece disposiciones generales para la protección de datos personales y desarrolla el derecho constitucional al habeas data. Esta ley regula el tratamiento de datos por parte de entidades públicas y privadas. Sus puntos clave son:
+                p Ley Orgánica 3/2018, en vigor desde mayo de 2018, complementa al RGPD adaptando su aplicación al contexto español y ampliando derechos en el entorno digital. Entre sus aspectos clave se destacan:
               .col-md-12.bgblanco.p-3
                 ul.lista-ul
                   li
@@ -88,7 +88,7 @@
                   img(src='@/assets/curso/temas/tema3/img4.png', alt='Texto que describa la imagen')
             .row(numero="C" titulo="Ley 1581 de 2012 - Protección de Datos Personales (Colombia)")
               .col-md-12.mb-4.mb-md-0
-                p Ley Orgánica 3/2018, en vigor desde mayo de 2018, complementa al RGPD adaptando su aplicación al contexto español y ampliando derechos en el entorno digital. Entre sus aspectos clave se destacan:
+                p Establece disposiciones generales para la protección de datos personales y desarrolla el derecho constitucional al habeas data. Esta ley regula el tratamiento de datos por parte de entidades públicas y privadas. Sus puntos clave son:
               .col-md-12.bgblanco.p-3
                 ul.lista-ul
                   li
@@ -191,13 +191,13 @@
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
-                    | Confidencialidad: asegura que solo las personas autorizadas puedan acceder a la información.
+                    p.mb-0 #[b Confidencialidad]: asegura que solo las personas autorizadas puedan acceder a la información.
                   li
                     i.fas.fa-angle-right
-                    | Integridad: garantiza que los datos no sean alterados de manera no autorizada o accidental.
+                    p.mb-0 #[b Integridad]: garantiza que los datos no sean alterados de manera no autorizada o accidental.
                   li
                     i.fas.fa-angle-right
-                    | Disponibilidad: permite que los datos estén accesibles cuando se necesiten, por los usuarios pertinentes.
+                    p.mb-0 #[b Disponibilidad]: permite que los datos estén accesibles cuando se necesiten, por los usuarios pertinentes.
   
       .BG03.p-5
         .row.justify-content-center.align-items-center.mb-5

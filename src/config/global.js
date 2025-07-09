@@ -156,7 +156,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01__DU.pdf',
+        download: 'downloads/CFA_01_21710119_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -181,7 +181,7 @@ export default {
     {
       tema: '1. Tipo de datos',
       referencia:
-        '1. Tipo de datos	Ecosistema de Recursos Educativos SENA. (2022). Modelo de análisis de datos [Video]. YouTube.',
+        'Tipo de datos	Ecosistema de Recursos Educativos SENA. (2022). Modelo de análisis de datos [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=KMRGyi1ZB9k',
     },
@@ -215,12 +215,12 @@ export default {
         'información cruda, hechos, cifras, observaciones o señales que se recopilan y registran.',
     },
     {
-      termino: 'Entrenamiento (<em>Training</em>):',
+      termino: 'Entrenamiento (<em>Training</em>)',
       significado:
         'proceso mediante el cual un algoritmo de aprendizaje automático ajusta los parámetros internos de un modelo utilizando un conjunto de datos específico (datos de entrenamiento). El objetivo es que el modelo aprenda a identificar patrones o realizar la tarea deseada con precisión.',
     },
     {
-      termino: 'Modelo (de IA/ML):',
+      termino: 'Modelo (de IA/ML)',
       significado:
         'representación matemática o computacional que simula un proceso o tarea, creada a partir de datos mediante algoritmos de inteligencia artificial o aprendizaje automático.',
     },

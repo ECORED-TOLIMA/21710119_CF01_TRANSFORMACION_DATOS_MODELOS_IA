@@ -243,7 +243,7 @@
         .col-lg-7.order-lg-1.order-2(data-aos="flip-up")
           p Los datos semiestructurados representan una forma híbrida de información que combina elementos de datos estructurados y no estructurados. A diferencia de los datos estructurados, que se organizan de manera rígida en bases de datos relacionales, los datos semiestructurados no siguen un esquema fijo, aunque conservan ciertos elementos organizativos. Esta flexibilidad permite representar jerarquías y relaciones complejas dentro de los datos, facilitando su adaptación a diferentes necesidades y contextos.
           .cajon.color-primario.p-4.mb-4
-            p.mb-0 Ejemplos comunes de datos semiestructurados son los archivos XML y JSON, que utilizan etiquetas o pares clave-valor para organizar la información. También se incluyen correos electrónicos con metadatos, logs de servidores y archivos YAML, los cuales contienen estructura, pero sin ajustarse a una forma tabular estricta.
+            p.mb-0 Ejemplos comunes de datos semiestructurados son los archivos XML y JSON, que utilizan etiquetas o pares clave-valor para organizar la información. También se incluyen correos electrónicos con metadatos, #[i logs] de servidores y archivos YAML, los cuales contienen estructura, pero sin ajustarse a una forma tabular estricta.
         .col-lg-5.col-6.col-md-6.col-8.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img7.png', alt='Imagen decorativa')
