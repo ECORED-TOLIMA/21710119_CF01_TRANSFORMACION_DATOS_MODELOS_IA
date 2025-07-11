@@ -2,6 +2,8 @@ export default {
   global: {
     componenteFormativo:
       'Fundamentos de datos, estadística descriptiva y seguridad de la información',
+    Name:
+      'Fundamentos de datos, estadística descriptiva y seguridad de la información',
     descripcionCurso:
       'Este componente está diseñado para desarrollar habilidades técnicas en el reconocimiento de fuentes y tipos de datos. Asimismo, fortalece las capacidades de los aprendices en un entorno digital en constante evolución, con fundamentos estadísticos. Además, permite adquirir competencias en el análisis, validación y preparación de datos para modelos de Inteligencia Artificial (IA).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -401,11 +403,6 @@ export default {
         },
         {
           nombre: 'Veimar Celis Meléndez',
-          cargo: 'Desarrollador <em>Fullstack</em>',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
